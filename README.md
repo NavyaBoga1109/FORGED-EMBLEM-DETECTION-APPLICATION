@@ -1,9 +1,6 @@
 # FORGED-EMBLEM-DETECTION-APPLICATION
 Tech Stack: Python 3.8.5, TensorFlow, PIL (Python Imaging Library), Streamlit, NumPy Features and Techniques: Transfer Learning, Image Preprocessing, Decision Tree, Piece Wise Painting Algorithm (PPA)
 
-# FORGED-EMBLEM-DETECTION-APPLICATION
-Tech Stack: Python 3.8.5, TensorFlow, PIL (Python Imaging Library), Streamlit, NumPy Features and Techniques: Transfer Learning, Image Preprocessing, Decision Tree, Piece Wise Painting Algorithm (PPA)
-
 Every year, brands lose a significant portion of their sales to unauthorized knock off brands and counterfeits. Moreover, since such counterfeit products are usually of an inferior quality, they also end up damaging the credibility of the brand. Many a times consumers also get cheated out of their hard-earned money as they end up shelling out an exorbitant amount of money for a mere counterfeit
 . This Logo Detection app aims to help consumers distinguish forgeries from the original product. Using this system, a consumer can verify whether a product is in fact an original. This application can also be helpful for brands struggling to fight against forged products. The detection method is based on the piece-wise painting algorithm (PPA) and some probability features along with a decision tree.
 
